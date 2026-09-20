@@ -8,9 +8,17 @@
 ---
 
 ### 📌 About Me
-```javascript
-const btStudio = {
-  code: ["Full-Stack Development", "Interactive Web"],
-  design: ["UI/UX", "Brand Identity", "Motion"],
-  currentFocus: "Building high-performance web interfaces",
-};
+- **Code:** Full-Stack Development, Interactive Web
+- **Design:** UI/UX, Brand Identity, Motion
+- **Current Focus:** Building high-performance web interfaces
+
+---
+
+### 📊 GitHub Stats
+![BT Studio's GitHub stats](https://github-readme-stats.vercel.app/api?username=BT-Studio-dev&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BT-Studio-dev&layout=compact&theme=dark)
+
+---
+
+📫 **Reach Out:**
+- Website: [btstudio.dev](https://github.com/BT-Studio-dev)
